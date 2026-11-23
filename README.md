@@ -65,17 +65,6 @@ I'm a **full-stack developer and AI engineer** 💻🤖, studying **AI & Machine
 
 </div>
 
-<h2 align="center">My GitHub Stats 📊</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=syed-mehraj&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" alt="Syed's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-mehraj&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=syed-mehraj&theme=radical&hide_border=true" alt="GitHub streak" />
-</p>
-
 <h2 align="center">Projects 🚀</h2>
 
 | Project | What it does | Built with |
