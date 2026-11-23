@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="286" viewBox="0 0 880 286" role="img" aria-label="Skills: Python, TypeScript, PyTorch, TensorFlow, LoRA fine-tuning, RAG, voice agents, Node.js, NestJS, PostgreSQL and more">
+<title>Skills: Python, TypeScript, PyTorch, TensorFlow, LoRA fine-tuning, RAG, voice agents, Node.js, NestJS, PostgreSQL and more</title>
+<style>
+  .pop { opacity: 0; transform-box: fill-box; transform-origin: center; animation: pop .55s cubic-bezier(.2,1.4,.4,1) forwards; }
+  @keyframes pop { from { opacity: 0; transform: scale(.6) translateY(6px) } to { opacity: 1; transform: none } }
+  .beat { animation: beat 2.4s ease-in-out infinite; }
+  @keyframes beat { 50% { opacity: .35 } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important } .pop { opacity: 1 } }
+</style>
+<defs>
+  <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#67e8f9" stop-opacity="0"/><stop offset=".5" stop-color="#67e8f9" stop-opacity=".16"/><stop offset="1" stop-color="#67e8f9" stop-opacity="0"/></linearGradient>
+  <clipPath id="sc"><rect width="880" height="286" rx="16"/></clipPath>
+</defs>
+<rect x=".5" y=".5" width="879" height="285" rx="16" fill="#0b1020" stroke="#ffffff" stroke-opacity=".07"/>
+<text x="24" y="34" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#64748b">// toolbox — what I reach for</text>
+<g clip-path="url(#sc)"><rect y="0" width="140" height="286" fill="url(#scan)"><animate attributeName="x" values="-160;900" dur="5s" begin="1.8s" repeatCount="indefinite"/></rect></g>
+<text x="24" y="76.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#64748b">languages</text>
+<g class="pop" style="animation-delay:0.25s">
+  <rect x="166" y="58" width="75" height="28" rx="9" fill="#0f172a" stroke="#ffd43b" stroke-opacity=".35"/>
+  <circle cx="180" cy="72" r="4" fill="#ffd43b" class="beat" style="animation-delay:0s"/>
+  <text x="190" y="76.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="45" lengthAdjust="spacingAndGlyphs">Python</text>
+</g>
+<g class="pop" style="animation-delay:0.31s">
+  <rect x="249" y="58" width="105" height="28" rx="9" fill="#0f172a" stroke="#3178c6" stroke-opacity=".35"/>
+  <circle cx="263" cy="72" r="4" fill="#3178c6" class="beat" style="animation-delay:0.35s"/>
+  <text x="273" y="76.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="75" lengthAdjust="spacingAndGlyphs">TypeScript</text>
+</g>
+<g class="pop" style="animation-delay:0.37s">
+  <rect x="362" y="58" width="37.5" height="28" rx="9" fill="#0f172a" stroke="#a8b9cc" stroke-opacity=".35"/>
+  <circle cx="376" cy="72" r="4" fill="#a8b9cc" class="beat" style="animation-delay:0.7s"/>
+  <text x="386" y="76.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="7.5" lengthAdjust="spacingAndGlyphs">C</text>
+</g>
+<g class="pop" style="animation-delay:0.43s">
+  <rect x="407.5" y="58" width="60" height="28" rx="9" fill="#0f172a" stroke="#f89820" stroke-opacity=".35"/>
+  <circle cx="421.5" cy="72" r="4" fill="#f89820" class="beat" style="animation-delay:1.05s"/>
+  <text x="431.5" y="76.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="30" lengthAdjust="spacingAndGlyphs">Java</text>
+</g>
+<text x="24" y="120.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#64748b">machine learning</text>
+<g class="pop" style="animation-delay:0.49s">
+  <rect x="166" y="102" width="82.5" height="28" rx="9" fill="#0f172a" stroke="#ee4c2c" stroke-opacity=".35"/>
+  <circle cx="180" cy="116" r="4" fill="#ee4c2c" class="beat" style="animation-delay:1.4s"/>
+  <text x="190" y="120.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="52.5" lengthAdjust="spacingAndGlyphs">PyTorch</text>
+</g>
+<g class="pop" style="animation-delay:0.55s">
+  <rect x="256.5" y="102" width="105" height="28" rx="9" fill="#0f172a" stroke="#ff8f00" stroke-opacity=".35"/>
+  <circle cx="270.5" cy="116" r="4" fill="#ff8f00" class="beat" style="animation-delay:1.75s"/>
+  <text x="280.5" y="120.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="75" lengthAdjust="spacingAndGlyphs">TensorFlow</text>
+</g>
+<g class="pop" style="animation-delay:0.61s">
+  <rect x="369.5" y="102" width="67.5" height="28" rx="9" fill="#0f172a" stroke="#ff4d4d" stroke-opacity=".35"/>
+  <circle cx="383.5" cy="116" r="4" fill="#ff4d4d" class="beat" style="animation-delay:2.1s"/>
+  <text x="393.5" y="120.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="37.5" lengthAdjust="spacingAndGlyphs">Keras</text>
+</g>
+<g class="pop" style="animation-delay:0.67s">
+  <rect x="445" y="102" width="120" height="28" rx="9" fill="#0f172a" stroke="#f7931e" stroke-opacity=".35"/>
+  <circle cx="459" cy="116" r="4" fill="#f7931e" class="beat" style="animation-delay:0s"/>
+  <text x="469" y="120.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="90" lengthAdjust="spacingAndGlyphs">Scikit-learn</text>
+</g>
+<g class="pop" style="animation-delay:0.73s">
+  <rect x="573" y="102" width="150" height="28" rx="9" fill="#0f172a" stroke="#a78bfa" stroke-opacity=".35"/>
+  <circle cx="587" cy="116" r="4" fill="#a78bfa" class="beat" style="animation-delay:0.35s"/>
+  <text x="597" y="120.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="120" lengthAdjust="spacingAndGlyphs">LoRA fine-tuning</text>
+</g>
+<g class="pop" style="animation-delay:0.79s">
+  <rect x="731" y="102" width="60" height="28" rx="9" fill="#0f172a" stroke="#67e8f9" stroke-opacity=".35"/>
+  <circle cx="745" cy="116" r="4" fill="#67e8f9" class="beat" style="animation-delay:0.7s"/>
+  <text x="755" y="120.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="30" lengthAdjust="spacingAndGlyphs">CNNs</text>
+</g>
+<g class="pop" style="animation-delay:0.85s">
+  <rect x="799" y="102" width="67.5" height="28" rx="9" fill="#0f172a" stroke="#34d399" stroke-opacity=".35"/>
+  <circle cx="813" cy="116" r="4" fill="#34d399" class="beat" style="animation-delay:1.05s"/>
+  <text x="823" y="120.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="37.5" lengthAdjust="spacingAndGlyphs">LSTMs</text>
+</g>
+<text x="24" y="164.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#64748b">generative ai</text>
+<g class="pop" style="animation-delay:0.91s">
+  <rect x="166" y="146" width="90" height="28" rx="9" fill="#0f172a" stroke="#c084fc" stroke-opacity=".35"/>
+  <circle cx="180" cy="160" r="4" fill="#c084fc" class="beat" style="animation-delay:1.4s"/>
+  <text x="190" y="164.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="60" lengthAdjust="spacingAndGlyphs">LLM APIs</text>
+</g>
+<g class="pop" style="animation-delay:0.97s">
+  <rect x="264" y="146" width="105" height="28" rx="9" fill="#0f172a" stroke="#4285f4" stroke-opacity=".35"/>
+  <circle cx="278" cy="160" r="4" fill="#4285f4" class="beat" style="animation-delay:1.75s"/>
+  <text x="288" y="164.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="75" lengthAdjust="spacingAndGlyphs">Gemini API</text>
+</g>
+<g class="pop" style="animation-delay:1.03s">
+  <rect x="377" y="146" width="52.5" height="28" rx="9" fill="#0f172a" stroke="#f472b6" stroke-opacity=".35"/>
+  <circle cx="391" cy="160" r="4" fill="#f472b6" class="beat" style="animation-delay:2.1s"/>
+  <text x="401" y="164.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="22.5" lengthAdjust="spacingAndGlyphs">RAG</text>
+</g>
+<g class="pop" style="animation-delay:1.09s">
+  <rect x="437.5" y="146" width="120" height="28" rx="9" fill="#0f172a" stroke="#fbbf24" stroke-opacity=".35"/>
+  <circle cx="451.5" cy="160" r="4" fill="#fbbf24" class="beat" style="animation-delay:0s"/>
+  <text x="461.5" y="164.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="90" lengthAdjust="spacingAndGlyphs">Tool calling</text>
+</g>
+<g class="pop" style="animation-delay:1.15s">
+  <rect x="565.5" y="146" width="120" height="28" rx="9" fill="#0f172a" stroke="#67e8f9" stroke-opacity=".35"/>
+  <circle cx="579.5" cy="160" r="4" fill="#67e8f9" class="beat" style="animation-delay:0.35s"/>
+  <text x="589.5" y="164.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="90" lengthAdjust="spacingAndGlyphs">Voice agents</text>
+</g>
+<text x="24" y="208.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#64748b">backend &amp; mobile</text>
+<g class="pop" style="animation-delay:1.21s">
+  <rect x="166" y="190" width="82.5" height="28" rx="9" fill="#0f172a" stroke="#5fa04e" stroke-opacity=".35"/>
+  <circle cx="180" cy="204" r="4" fill="#5fa04e" class="beat" style="animation-delay:0.7s"/>
+  <text x="190" y="208.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="52.5" lengthAdjust="spacingAndGlyphs">Node.js</text>
+</g>
+<g class="pop" style="animation-delay:1.27s">
+  <rect x="256.5" y="190" width="75" height="28" rx="9" fill="#0f172a" stroke="#e0234e" stroke-opacity=".35"/>
+  <circle cx="270.5" cy="204" r="4" fill="#e0234e" class="beat" style="animation-delay:1.05s"/>
+  <text x="280.5" y="208.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="45" lengthAdjust="spacingAndGlyphs">NestJS</text>
+</g>
+<g class="pop" style="animation-delay:1.33s">
+  <rect x="339.5" y="190" width="105" height="28" rx="9" fill="#0f172a" stroke="#4169e1" stroke-opacity=".35"/>
+  <circle cx="353.5" cy="204" r="4" fill="#4169e1" class="beat" style="animation-delay:1.4s"/>
+  <text x="363.5" y="208.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="75" lengthAdjust="spacingAndGlyphs">PostgreSQL</text>
+</g>
+<g class="pop" style="animation-delay:1.39s">
+  <rect x="452.5" y="190" width="75" height="28" rx="9" fill="#0f172a" stroke="#818cf8" stroke-opacity=".35"/>
+  <circle cx="466.5" cy="204" r="4" fill="#818cf8" class="beat" style="animation-delay:1.75s"/>
+  <text x="476.5" y="208.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="45" lengthAdjust="spacingAndGlyphs">Prisma</text>
+</g>
+<g class="pop" style="animation-delay:1.45s">
+  <rect x="535.5" y="190" width="67.5" height="28" rx="9" fill="#0f172a" stroke="#e2e8f0" stroke-opacity=".35"/>
+  <circle cx="549.5" cy="204" r="4" fill="#e2e8f0" class="beat" style="animation-delay:2.1s"/>
+  <text x="559.5" y="208.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="37.5" lengthAdjust="spacingAndGlyphs">Kafka</text>
+</g>
+<g class="pop" style="animation-delay:1.51s">
+  <rect x="611" y="190" width="75" height="28" rx="9" fill="#0f172a" stroke="#34d399" stroke-opacity=".35"/>
+  <circle cx="625" cy="204" r="4" fill="#34d399" class="beat" style="animation-delay:0s"/>
+  <text x="635" y="208.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="45" lengthAdjust="spacingAndGlyphs">WebRTC</text>
+</g>
+<g class="pop" style="animation-delay:1.57s">
+  <rect x="694" y="190" width="60" height="28" rx="9" fill="#0f172a" stroke="#e2e8f0" stroke-opacity=".35"/>
+  <circle cx="708" cy="204" r="4" fill="#e2e8f0" class="beat" style="animation-delay:0.35s"/>
+  <text x="718" y="208.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="30" lengthAdjust="spacingAndGlyphs">Expo</text>
+</g>
+<g class="pop" style="animation-delay:1.63s">
+  <rect x="762" y="190" width="75" height="28" rx="9" fill="#0f172a" stroke="#7f52ff" stroke-opacity=".35"/>
+  <circle cx="776" cy="204" r="4" fill="#7f52ff" class="beat" style="animation-delay:0.7s"/>
+  <text x="786" y="208.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="45" lengthAdjust="spacingAndGlyphs">Kotlin</text>
+</g>
+<text x="24" y="252.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#64748b">data &amp; tools</text>
+<g class="pop" style="animation-delay:1.69s">
+  <rect x="166" y="234" width="67.5" height="28" rx="9" fill="#0f172a" stroke="#4dabcf" stroke-opacity=".35"/>
+  <circle cx="180" cy="248" r="4" fill="#4dabcf" class="beat" style="animation-delay:1.05s"/>
+  <text x="190" y="252.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="37.5" lengthAdjust="spacingAndGlyphs">NumPy</text>
+</g>
+<g class="pop" style="animation-delay:1.75s">
+  <rect x="241.5" y="234" width="75" height="28" rx="9" fill="#0f172a" stroke="#e70488" stroke-opacity=".35"/>
+  <circle cx="255.5" cy="248" r="4" fill="#e70488" class="beat" style="animation-delay:1.4s"/>
+  <text x="265.5" y="252.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="45" lengthAdjust="spacingAndGlyphs">Pandas</text>
+</g>
+<g class="pop" style="animation-delay:1.81s">
+  <rect x="324.5" y="234" width="75" height="28" rx="9" fill="#0f172a" stroke="#2496ed" stroke-opacity=".35"/>
+  <circle cx="338.5" cy="248" r="4" fill="#2496ed" class="beat" style="animation-delay:1.75s"/>
+  <text x="348.5" y="252.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="45" lengthAdjust="spacingAndGlyphs">Docker</text>
+</g>
+<g class="pop" style="animation-delay:1.87s">
+  <rect x="407.5" y="234" width="52.5" height="28" rx="9" fill="#0f172a" stroke="#f05032" stroke-opacity=".35"/>
+  <circle cx="421.5" cy="248" r="4" fill="#f05032" class="beat" style="animation-delay:2.1s"/>
+  <text x="431.5" y="252.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="22.5" lengthAdjust="spacingAndGlyphs">Git</text>
+</g>
+<g class="pop" style="animation-delay:1.93s">
+  <rect x="468" y="234" width="127.5" height="28" rx="9" fill="#0f172a" stroke="#00bfb3" stroke-opacity=".35"/>
+  <circle cx="482" cy="248" r="4" fill="#00bfb3" class="beat" style="animation-delay:0s"/>
+  <text x="492" y="252.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="97.5" lengthAdjust="spacingAndGlyphs">Elasticsearch</text>
+</g>
+<g class="pop" style="animation-delay:1.99s">
+  <rect x="603.5" y="234" width="120" height="28" rx="9" fill="#0f172a" stroke="#94a3b8" stroke-opacity=".35"/>
+  <circle cx="617.5" cy="248" r="4" fill="#94a3b8" class="beat" style="animation-delay:0.35s"/>
+  <text x="627.5" y="252.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#e2e8f0" textLength="90" lengthAdjust="spacingAndGlyphs">CI pipelines</text>
+</g>
+</svg>
