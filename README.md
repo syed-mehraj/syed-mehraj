@@ -8,6 +8,14 @@
   <img src="https://img.shields.io/github/followers/syed-mehraj?label=Followers&color=orange" alt="Followers" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&color=F0955E&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+Engineer+%F0%9F%A4%96;Frontends+in+React+%26+Next.js;APIs+with+Node.js%2C+NestJS+%26+PostgreSQL;LLMs%2C+RAG+%26+real-time+voice+agents" alt="Full-Stack Developer · AI Engineer · React & Next.js · Node.js, NestJS & PostgreSQL · LLMs, RAG & voice agents" />
+</p>
+
+<h2>About me</h2>
+
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Developer working at a glowing desk" />
+
 I'm a **full-stack developer and AI engineer** 💻🤖, studying **AI & Machine Learning at MJCET, Hyderabad** 🎓 (class of 2027) and working as a developer at **Parallel Labs** 🏢. I like owning a product end to end: **web frontends** in React and Next.js 🎨, **backends and APIs** in Node.js and NestJS with PostgreSQL and Kafka 🛠️, **mobile apps** with Expo and Kotlin 📱, and the **AI layer** on top: LLMs, RAG, fine-tuning and real-time voice agents 🎙️. I'm always happy to learn something new and to collaborate on interesting projects 🤝.
 
 - 🎨 **Frontend:** React, Next.js, TypeScript, Tailwind CSS
@@ -17,7 +25,9 @@ I'm a **full-stack developer and AI engineer** 💻🤖, studying **AI & Machine
 - ☁️ **Shipping:** Docker, Vercel, CI pipelines, Git
 - 📍 Based in **Hyderabad, India**
 
-<h2 align="center">Technology Stack 💻</h2>
+<br clear="right" />
+
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="32" alt="" /> Technology Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -82,3 +92,14 @@ I'm a **full-stack developer and AI engineer** 💻🤖, studying **AI & Machine
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 </p>
 
+<br />
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="640" alt="A cosy workspace at night" />
+</p>
+
+<p align="center"><b>Thanks for stopping by — let's build something together ✨</b></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:241640,50:6b2f5f,100:c8545a&height=120&section=footer" width="100%" alt="" />
+
+<sub>GIFs from <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">Cool-GIFs-For-GitHub</a> (MIT).</sub>
